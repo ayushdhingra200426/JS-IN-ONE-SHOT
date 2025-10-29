@@ -9,3 +9,9 @@ console.table([age,name,no]);
 // var once declared can be redeclared and updated
 // const once declared can be updated but can't be redeclared
 // avoid var because of block scope and functional scope problems
+
+let names="RADHE RADHE";
+console.log(typeof names);
+let main_name=Number(names);
+console.log(typeof main_name);
+console.log(main_name);
