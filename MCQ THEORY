@@ -1,0 +1,20 @@
+CommonJS is a module system used in JavaScript, mainly for Node.js.
+
+It allows you to import and export code (functions, variables, etc.) between files.
+
+Syntax
+
+Import (require)
+
+const math = require("./math");
+
+
+Export (module.exports)
+
+module.exports = add;
+
+One-line MCQ answer
+
+CommonJS is a JavaScript module standard used mainly in Node.js where modules are loaded using require() and exported using module.exports.
+
+
